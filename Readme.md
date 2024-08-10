@@ -101,8 +101,7 @@ Password: cqBEz8GQ8Bj3IWJj
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/geo-data-api.git
-   cd geo-data-api
+   git clone https://github.com/KaranSinghChauhan2002/APIs-Spaark.git
 
 2. Install Node Modules:
   ```npm i
